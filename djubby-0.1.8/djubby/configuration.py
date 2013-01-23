@@ -21,7 +21,7 @@
 import os
 import logging
 from django.conf import settings
-from rdflib.Graph import ConjunctiveGraph
+from rdflib import ConjunctiveGraph
 import rdf
 import ns
 
