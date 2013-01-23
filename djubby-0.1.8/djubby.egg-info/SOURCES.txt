@@ -1,0 +1,17 @@
+MANIFEST.in
+ez_setup.py
+setup.py
+djubby/__init__.py
+djubby/configuration.py
+djubby/dispatcher.py
+djubby/http.py
+djubby/ns.py
+djubby/rdf.py
+djubby/resource.py
+djubby/uri.py
+djubby.egg-info/PKG-INFO
+djubby.egg-info/SOURCES.txt
+djubby.egg-info/dependency_links.txt
+djubby.egg-info/requires.txt
+djubby.egg-info/top_level.txt
+tpl/resource.tpl
