@@ -1,0 +1,34 @@
+jubby's changelog:
+------------------
+
+0.1.8 (28/04/2010):
+  * Fixed problem distributing templates on the tarball (issue #1)
+
+0.1.7 (27/04/2010):
+  * Fixed issue with empty values for conf:webResourcePrefix
+  * Refactorized URI module
+  * Added support to conf:fixUnescapedCharacters
+
+0.1.6 (21/04/2010):
+  * Fixed issue getting documents' URL with the new URIs scheme
+
+0.1.5 (20/04/2010):
+  * Added N3 support
+
+0.1.4 (16/04/2010):
+  * Improved HTML renderization
+
+0.1.3 (15/04/2010):
+  * Added CURIEs support
+  * Implemented default language
+  * Improved properties presentation style
+
+0.1.2 (15/04/2010):
+  * Allowing to serve resources from different web base URI
+  * Added support to ASK queries over Virtuoso endpoints
+
+0.1.1 (13/04/2010):
+  * Added some cosmetic details to the HTML renderization
+
+0.1.0 (13/04/2010):
+  * First public release with the core features
